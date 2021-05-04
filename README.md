@@ -4,7 +4,7 @@ avec Raylib
 
 Lien de la vidéo: https://drive.google.com/file/d/1U_j2udOYT7dhOae0Y1lsdNYmo1KTawd9/view?usp=sharing
 
-Ce projet est implementation du jeu Tetris avec la bibliothèque RAYLIB. 
+Ce projet est une implémentation du jeu Tetris avec la bibliothèque RAYLIB. 
 Note : Tout le code source est contenu dans un seul fichier tetris.c.
 
 COMPILER LE PROGRAMME
@@ -20,12 +20,12 @@ Afin de lancer le projet, il vous suffit de télécharger "tetris.zip", puis d'e
 
 JOUER AU JEU TETRIS
 
-Ce projet implement toutes les fonctionnalités de base du jeu Tetris, soit:
+Ce projet implémente toutes les fonctionnalités de base du jeu Tetris, soit:
 
-- des pièces générées aléatoirement tombe sur la carte
+- des pièces générées aléatoirement tombent sur la carte
 - on peut les deplacer et changer leur orientation
-- lorque l'on complete une ligne notre score augmente
-- si nos pieces depassent l'ecran on perd
+- lorque l'on complète une ligne notre score augmente
+- si nos pièces depassent l'écran on perd
 
 TOUCHES
 
