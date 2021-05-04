@@ -20,12 +20,12 @@ Afin de lancer le projet, il vous suffit de télécharger "tetris.zip", puis d'e
 
 JOUER AU JEU TETRIS
 
-Ce projet implement toutes les fonctionnalités de base du jeu Tetris, soit:
+Ce projet implémente toutes les fonctionnalités de base du jeu Tetris, soit:
 
-- des pièces générées aléatoirement tombe sur la carte
+- des pièces générées aléatoirement tombent sur la carte
 - on peut les deplacer et changer leur orientation
-- lorque l'on complete une ligne notre score augmente
-- si nos pieces depassent l'ecran on perd
+- lorque l'on complète une ligne notre score augmente
+- si nos pièces depassent l'écran on perd
 
 TOUCHES
 
