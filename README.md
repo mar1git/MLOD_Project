@@ -4,7 +4,7 @@ avec Raylib
 
 Lien de la vidéo: https://drive.google.com/file/d/1U_j2udOYT7dhOae0Y1lsdNYmo1KTawd9/view?usp=sharing
 
-Ce projet est implementation du jeu Tetris avec la bibliothèque RAYLIB. 
+Ce projet est une implémentation du jeu Tetris avec la bibliothèque RAYLIB. 
 Note : Tout le code source est contenu dans un seul fichier tetris.c.
 
 COMPILER LE PROGRAMME
